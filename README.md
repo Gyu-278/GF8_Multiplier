@@ -64,9 +64,3 @@ ModelSim을 사용하여 6가지 Golden Test Case 및 Reset 동작을 검증하�
 ## 👤 Author
 * **이름**: 박규호 (Park Gyu-ho)
 * **소속**: 연세대학교 (Yonsei University) | HAI Lab 학부 인턴
-
----
-
-## 📚 References
-* Finite Field Arithmetic (Wikipedia)
-* Galois Field (Wiktionary)
