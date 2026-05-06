@@ -58,9 +58,3 @@ ModelSim을 사용하여 6가지 Golden Test Case 및 Reset 동작을 검증하�
 * **Golden Case Verification**: 과제에서 주어진 데이터를 통해 `0x47`, `0x87` 등 정확한 결과 도출을 확인하였습니다.
 * **Reset Verification**: Negative edge Reset 시 즉시 출력이 `0x00`으로 초기화되는 것을 확인하여 안정성을 검증하였습니다.
 * **Accuracy**: 모든 테스트 케이스에서 Python 결과값과 Verilog 시뮬레이션 결과값이 100% 일치함을 확인하였습니다.
-
----
-
-## 👤 Author
-* **이름**: 박규호 (Park Gyu-ho)
-* **소속**: 연세대학교 (Yonsei University) | HAI Lab 학부 인턴
